@@ -31,7 +31,6 @@ O desafio consiste em desenvolver um aplicativo funcional para gerenciamento de 
 
 ### **Observações**
 
-- Evite o uso de bibliotecas externas, exceto para armazenamento local, se necessário.
 - Caso opte por usar bibliotecas externas, utilize gerenciadores de dependência padrão da linguagem escolhida.
 - O desafio tem como objetivo avaliar suas boas práticas, organização, entendimento de padrões de desenvolvimento e clareza no código.
 
