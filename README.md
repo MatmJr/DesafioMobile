@@ -29,6 +29,17 @@ O desafio consiste em desenvolver um aplicativo funcional para gerenciamento de 
 
 ---
 
+### **Requisitos Extras**
+
+1. **Foto da Sala**: Adicione uma funcionalidade que permita ao usuário incluir uma foto da sala no momento do cadastro ou edição. A imagem deve ser exibida na listagem e nos detalhes da sala.
+
+2. **Geolocalização**: Insira uma opção para salvar a localização geográfica da sala (latitude e longitude) e exibir essa informação em um mapa interativo ou em texto.
+
+3. **Status da Sala**: Inclua a possibilidade de definir o status atual da sala, com as opções "Ocupada", "Livre" ou "Em Manutenção". Esse status deve ser exibido na listagem e nos detalhes da sala.
+
+4. **Demonstração no Celular**: Certifique-se de apresentar o aplicativo em funcionamento em um dispositivo móvel real ou emulador, gravando uma demonstração do uso das funcionalidades principais.
+---
+
 ### **Observações**
 
 - Caso opte por usar bibliotecas externas, utilize gerenciadores de dependência padrão da linguagem escolhida.
